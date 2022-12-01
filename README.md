@@ -91,7 +91,7 @@
 
 20\. 黄子毅. (2022). Ascoders/react-native-image-viewer \[TypeScript\]. https://github.com/ascoders/react-native-image-viewer (Original work published 2016)
 
-APIs used
+# APIs used
 
 1\. API:Main page—MediaWiki. (n.d.). Retrieved October 15, 2022, from https://www.mediawiki.org/wiki/API:Main_page
 
