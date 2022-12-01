@@ -1,0 +1,685 @@
+{
+  "_dispatchInstances": {
+    "_debugHookTypes": null,
+    "_debugNeedsRemount": false,
+    "_debugOwner": {
+      "_debugHookTypes": null,
+      "_debugNeedsRemount": false,
+      "_debugOwner": [
+        FiberNode
+      ],
+      "_debugSource": undefined,
+      "actualDuration": 92.50737687945366,
+      "actualStartTime": 192969893.602347,
+      "alternate": null,
+      "child": [
+        Circular
+      ],
+      "childLanes": 0,
+      "deletions": null,
+      "dependencies": null,
+      "elementType": [
+        Object
+      ],
+      "flags": 1,
+      "index": 0,
+      "key": null,
+      "lanes": 0,
+      "memoizedProps": [
+        Object
+      ],
+      "memoizedState": null,
+      "mode": 2,
+      "pendingProps": [
+        Object
+      ],
+      "ref": [
+        Function
+        anonymous
+      ],
+      "return": [
+        FiberNode
+      ],
+      "selfBaseDuration": 0.4667689800262451,
+      "sibling": null,
+      "stateNode": null,
+      "subtreeFlags": 9439749,
+      "tag": 11,
+      "treeBaseDuration": 39.34038203954697,
+      "type": [
+        Object
+      ],
+      "updateQueue": null
+    },
+    "_debugSource": undefined,
+    "actualDuration": 92.0240688920021,
+    "actualStartTime": 192969894.082039,
+    "alternate": null,
+    "child": {
+      "_debugHookTypes": null,
+      "_debugNeedsRemount": false,
+      "_debugOwner": [
+        FiberNode
+      ],
+      "_debugSource": undefined,
+      "actualDuration": 29.169997066259384,
+      "actualStartTime": 192969894.393116,
+      "alternate": null,
+      "child": [
+        FiberNode
+      ],
+      "childLanes": 0,
+      "deletions": null,
+      "dependencies": null,
+      "elementType": [
+        Object
+      ],
+      "flags": 1048577,
+      "index": 0,
+      "key": null,
+      "lanes": 0,
+      "memoizedProps": [
+        Object
+      ],
+      "memoizedState": null,
+      "mode": 2,
+      "pendingProps": [
+        Object
+      ],
+      "ref": null,
+      "return": [
+        Circular
+      ],
+      "selfBaseDuration": 0.25292301177978516,
+      "sibling": [
+        FiberNode
+      ],
+      "stateNode": null,
+      "subtreeFlags": 9439749,
+      "tag": 11,
+      "treeBaseDuration": 11.384385138750076,
+      "type": [
+        Object
+      ],
+      "updateQueue": null
+    },
+    "childLanes": 0,
+    "deletions": null,
+    "dependencies": null,
+    "elementType": "RNCSafeAreaView",
+    "flags": 512,
+    "index": 0,
+    "key": null,
+    "lanes": 0,
+    "memoizedProps": {
+      "children": [
+        Array
+      ],
+      "collapsable": false,
+      "edges": [
+        Array
+      ],
+      "onGestureHandlerEvent": [
+        Function
+        anonymous
+      ],
+      "onGestureHandlerStateChange": [
+        Function
+        anonymous
+      ],
+      "onLayout": [
+        Function
+        onLayout
+      ],
+      "onResponderMove": [
+        Function
+        onResponderMove
+      ],
+      "style": [
+        Object
+      ],
+      "testID": undefined
+    },
+    "memoizedState": null,
+    "mode": 2,
+    "pendingProps": {
+      "children": [
+        Array
+      ],
+      "collapsable": false,
+      "edges": [
+        Array
+      ],
+      "onGestureHandlerEvent": [
+        Function
+        anonymous
+      ],
+      "onGestureHandlerStateChange": [
+        Function
+        anonymous
+      ],
+      "onLayout": [
+        Function
+        onLayout
+      ],
+      "onResponderMove": [
+        Function
+        onResponderMove
+      ],
+      "style": [
+        Object
+      ],
+      "testID": undefined
+    },
+    "ref": [
+      Function
+      anonymous
+    ],
+    "return": {
+      "_debugHookTypes": null,
+      "_debugNeedsRemount": false,
+      "_debugOwner": [
+        FiberNode
+      ],
+      "_debugSource": undefined,
+      "actualDuration": 92.50737687945366,
+      "actualStartTime": 192969893.602347,
+      "alternate": null,
+      "child": [
+        Circular
+      ],
+      "childLanes": 0,
+      "deletions": null,
+      "dependencies": null,
+      "elementType": [
+        Object
+      ],
+      "flags": 1,
+      "index": 0,
+      "key": null,
+      "lanes": 0,
+      "memoizedProps": [
+        Object
+      ],
+      "memoizedState": null,
+      "mode": 2,
+      "pendingProps": [
+        Object
+      ],
+      "ref": [
+        Function
+        anonymous
+      ],
+      "return": [
+        FiberNode
+      ],
+      "selfBaseDuration": 0.4667689800262451,
+      "sibling": null,
+      "stateNode": null,
+      "subtreeFlags": 9439749,
+      "tag": 11,
+      "treeBaseDuration": 39.34038203954697,
+      "type": [
+        Object
+      ],
+      "updateQueue": null
+    },
+    "selfBaseDuration": 0.30000001192092896,
+    "sibling": null,
+    "stateNode": {
+      "_children": [
+        Array
+      ],
+      "_internalFiberInstanceHandleDEV": [
+        Circular
+      ],
+      "_nativeTag": 4449,
+      "viewConfig": [
+        Object
+      ]
+    },
+    "subtreeFlags": 9439749,
+    "tag": 5,
+    "treeBaseDuration": 38.87361305952072,
+    "type": "RNCSafeAreaView",
+    "updateQueue": null
+  },
+  "_dispatchListeners": [
+    Function
+    anonymous
+  ],
+  "_targetInst": {
+    "_debugHookTypes": null,
+    "_debugNeedsRemount": false,
+    "_debugOwner": {
+      "_debugHookTypes": null,
+      "_debugNeedsRemount": false,
+      "_debugOwner": [
+        FiberNode
+      ],
+      "_debugSource": undefined,
+      "actualDuration": 92.50737687945366,
+      "actualStartTime": 192969893.602347,
+      "alternate": null,
+      "child": [
+        Circular
+      ],
+      "childLanes": 0,
+      "deletions": null,
+      "dependencies": null,
+      "elementType": [
+        Object
+      ],
+      "flags": 1,
+      "index": 0,
+      "key": null,
+      "lanes": 0,
+      "memoizedProps": [
+        Object
+      ],
+      "memoizedState": null,
+      "mode": 2,
+      "pendingProps": [
+        Object
+      ],
+      "ref": [
+        Function
+        anonymous
+      ],
+      "return": [
+        FiberNode
+      ],
+      "selfBaseDuration": 0.4667689800262451,
+      "sibling": null,
+      "stateNode": null,
+      "subtreeFlags": 9439749,
+      "tag": 11,
+      "treeBaseDuration": 39.34038203954697,
+      "type": [
+        Object
+      ],
+      "updateQueue": null
+    },
+    "_debugSource": undefined,
+    "actualDuration": 92.0240688920021,
+    "actualStartTime": 192969894.082039,
+    "alternate": null,
+    "child": {
+      "_debugHookTypes": null,
+      "_debugNeedsRemount": false,
+      "_debugOwner": [
+        FiberNode
+      ],
+      "_debugSource": undefined,
+      "actualDuration": 29.169997066259384,
+      "actualStartTime": 192969894.393116,
+      "alternate": null,
+      "child": [
+        FiberNode
+      ],
+      "childLanes": 0,
+      "deletions": null,
+      "dependencies": null,
+      "elementType": [
+        Object
+      ],
+      "flags": 1048577,
+      "index": 0,
+      "key": null,
+      "lanes": 0,
+      "memoizedProps": [
+        Object
+      ],
+      "memoizedState": null,
+      "mode": 2,
+      "pendingProps": [
+        Object
+      ],
+      "ref": null,
+      "return": [
+        Circular
+      ],
+      "selfBaseDuration": 0.25292301177978516,
+      "sibling": [
+        FiberNode
+      ],
+      "stateNode": null,
+      "subtreeFlags": 9439749,
+      "tag": 11,
+      "treeBaseDuration": 11.384385138750076,
+      "type": [
+        Object
+      ],
+      "updateQueue": null
+    },
+    "childLanes": 0,
+    "deletions": null,
+    "dependencies": null,
+    "elementType": "RNCSafeAreaView",
+    "flags": 512,
+    "index": 0,
+    "key": null,
+    "lanes": 0,
+    "memoizedProps": {
+      "children": [
+        Array
+      ],
+      "collapsable": false,
+      "edges": [
+        Array
+      ],
+      "onGestureHandlerEvent": [
+        Function
+        anonymous
+      ],
+      "onGestureHandlerStateChange": [
+        Function
+        anonymous
+      ],
+      "onLayout": [
+        Function
+        onLayout
+      ],
+      "onResponderMove": [
+        Function
+        onResponderMove
+      ],
+      "style": [
+        Object
+      ],
+      "testID": undefined
+    },
+    "memoizedState": null,
+    "mode": 2,
+    "pendingProps": {
+      "children": [
+        Array
+      ],
+      "collapsable": false,
+      "edges": [
+        Array
+      ],
+      "onGestureHandlerEvent": [
+        Function
+        anonymous
+      ],
+      "onGestureHandlerStateChange": [
+        Function
+        anonymous
+      ],
+      "onLayout": [
+        Function
+        onLayout
+      ],
+      "onResponderMove": [
+        Function
+        onResponderMove
+      ],
+      "style": [
+        Object
+      ],
+      "testID": undefined
+    },
+    "ref": [
+      Function
+      anonymous
+    ],
+    "return": {
+      "_debugHookTypes": null,
+      "_debugNeedsRemount": false,
+      "_debugOwner": [
+        FiberNode
+      ],
+      "_debugSource": undefined,
+      "actualDuration": 92.50737687945366,
+      "actualStartTime": 192969893.602347,
+      "alternate": null,
+      "child": [
+        Circular
+      ],
+      "childLanes": 0,
+      "deletions": null,
+      "dependencies": null,
+      "elementType": [
+        Object
+      ],
+      "flags": 1,
+      "index": 0,
+      "key": null,
+      "lanes": 0,
+      "memoizedProps": [
+        Object
+      ],
+      "memoizedState": null,
+      "mode": 2,
+      "pendingProps": [
+        Object
+      ],
+      "ref": [
+        Function
+        anonymous
+      ],
+      "return": [
+        FiberNode
+      ],
+      "selfBaseDuration": 0.4667689800262451,
+      "sibling": null,
+      "stateNode": null,
+      "subtreeFlags": 9439749,
+      "tag": 11,
+      "treeBaseDuration": 39.34038203954697,
+      "type": [
+        Object
+      ],
+      "updateQueue": null
+    },
+    "selfBaseDuration": 0.30000001192092896,
+    "sibling": null,
+    "stateNode": {
+      "_children": [
+        Array
+      ],
+      "_internalFiberInstanceHandleDEV": [
+        Circular
+      ],
+      "_nativeTag": 4449,
+      "viewConfig": [
+        Object
+      ]
+    },
+    "subtreeFlags": 9439749,
+    "tag": 5,
+    "treeBaseDuration": 38.87361305952072,
+    "type": "RNCSafeAreaView",
+    "updateQueue": null
+  },
+  "bubbles": undefined,
+  "cancelable": undefined,
+  "currentTarget": {
+    "_children": [
+      [
+        ReactNativeFiberHostComponent
+      ],
+      [
+        ReactNativeFiberHostComponent
+      ],
+      [
+        ReactNativeFiberHostComponent
+      ]
+    ],
+    "_internalFiberInstanceHandleDEV": {
+      "_debugHookTypes": null,
+      "_debugNeedsRemount": false,
+      "_debugOwner": [
+        FiberNode
+      ],
+      "_debugSource": undefined,
+      "actualDuration": 92.0240688920021,
+      "actualStartTime": 192969894.082039,
+      "alternate": null,
+      "child": [
+        FiberNode
+      ],
+      "childLanes": 0,
+      "deletions": null,
+      "dependencies": null,
+      "elementType": "RNCSafeAreaView",
+      "flags": 512,
+      "index": 0,
+      "key": null,
+      "lanes": 0,
+      "memoizedProps": [
+        Object
+      ],
+      "memoizedState": null,
+      "mode": 2,
+      "pendingProps": [
+        Object
+      ],
+      "ref": [
+        Function
+        anonymous
+      ],
+      "return": [
+        FiberNode
+      ],
+      "selfBaseDuration": 0.30000001192092896,
+      "sibling": null,
+      "stateNode": [
+        Circular
+      ],
+      "subtreeFlags": 9439749,
+      "tag": 5,
+      "treeBaseDuration": 38.87361305952072,
+      "type": "RNCSafeAreaView",
+      "updateQueue": null
+    },
+    "_nativeTag": 4449,
+    "viewConfig": {
+      "Commands": [
+        Object
+      ],
+      "NativeProps": [
+        Object
+      ],
+      "bubblingEventTypes": [
+        Object
+      ],
+      "directEventTypes": [
+        Object
+      ],
+      "uiViewClassName": "RNCSafeAreaView",
+      "validAttributes": [
+        Object
+      ]
+    }
+  },
+  "defaultPrevented": undefined,
+  "dispatchConfig": {
+    "registrationName": "onGestureHandlerEvent"
+  },
+  "eventPhase": undefined,
+  "isDefaultPrevented": [
+    Function
+    functionThatReturnsFalse
+  ],
+  "isPropagationStopped": [
+    Function
+    functionThatReturnsFalse
+  ],
+  "isTrusted": undefined,
+  "nativeEvent": {
+    "absoluteX": 104.29629516601562,
+    "absoluteY": 436.4444580078125,
+    "handlerTag": 7,
+    "numberOfPointers": 1,
+    "state": 4,
+    "translationX": 8.83997917175293,
+    "translationY": 78.52709197998047,
+    "velocityX": 146.427978515625,
+    "velocityY": 636.1588745117188,
+    "x": 104.29629516601562,
+    "y": 380.4444580078125
+  },
+  "target": {
+    "_children": [
+      [
+        ReactNativeFiberHostComponent
+      ],
+      [
+        ReactNativeFiberHostComponent
+      ],
+      [
+        ReactNativeFiberHostComponent
+      ]
+    ],
+    "_internalFiberInstanceHandleDEV": {
+      "_debugHookTypes": null,
+      "_debugNeedsRemount": false,
+      "_debugOwner": [
+        FiberNode
+      ],
+      "_debugSource": undefined,
+      "actualDuration": 92.0240688920021,
+      "actualStartTime": 192969894.082039,
+      "alternate": null,
+      "child": [
+        FiberNode
+      ],
+      "childLanes": 0,
+      "deletions": null,
+      "dependencies": null,
+      "elementType": "RNCSafeAreaView",
+      "flags": 512,
+      "index": 0,
+      "key": null,
+      "lanes": 0,
+      "memoizedProps": [
+        Object
+      ],
+      "memoizedState": null,
+      "mode": 2,
+      "pendingProps": [
+        Object
+      ],
+      "ref": [
+        Function
+        anonymous
+      ],
+      "return": [
+        FiberNode
+      ],
+      "selfBaseDuration": 0.30000001192092896,
+      "sibling": null,
+      "stateNode": [
+        Circular
+      ],
+      "subtreeFlags": 9439749,
+      "tag": 5,
+      "treeBaseDuration": 38.87361305952072,
+      "type": "RNCSafeAreaView",
+      "updateQueue": null
+    },
+    "_nativeTag": 4449,
+    "viewConfig": {
+      "Commands": [
+        Object
+      ],
+      "NativeProps": [
+        Object
+      ],
+      "bubblingEventTypes": [
+        Object
+      ],
+      "directEventTypes": [
+        Object
+      ],
+      "uiViewClassName": "RNCSafeAreaView",
+      "validAttributes": [
+        Object
+      ]
+    }
+  },
+  "timeStamp": 1663934794248,
+  "type": undefined
+}
