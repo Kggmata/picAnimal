@@ -1,6 +1,16 @@
 # Readme
 #### Quick introduction video
 https://user-images.githubusercontent.com/55540828/204984113-51bf8655-819e-4f0c-87ea-dc064dd1fc7b.mp4
+####Project Concept
+
+The product (PicAnimal), a mobile app that we designed and created, is presently available on Android and will support IOS in the future. Our target audience consists of 20 to 30 year old students that value ecological conservation and nature, as well as 30 to 40 year old ecologists, zoologists, and taxonomists who work for organizations that protect wildlife.
+
+Recognizing animals from pictures is the main function. Users can manually upload photos or take photos and upload them. The application can then spot any potential animal classes with similarities in the photographs. When a result is clicked, text description, related photos, and related animals are displayed. Users can use this information as a reference to identify the animal species. The images and tags can also be shared with a text description and geo location as a discussion journal log for later view by other users.
+Users can also view other users' journals. Browse images, text descriptions, and animal tags to like posts, vote on hashtags, and post their own thoughts in the forum.
+
+PicAnimal also has a map functionality that users can share the journal log with location when posting. And therefore users can see the surrounding posts on the map page. At the same time, the map function provides information of the surrounding animal sightings including detailed information including images, text description and related animals similar as image classification, which provides users with convenience.
+
+In addition to the above main features, PicAnimal also has a detailed user statistics record. This includes uploaded photos, posted journals, liked posts or forums, browsing history, etc. 
 
 #### Installation
 
