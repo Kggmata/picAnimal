@@ -1,7 +1,8 @@
 # Readme
-#### Quick introduction video
+## Quick introduction video
 https://user-images.githubusercontent.com/55540828/204984113-51bf8655-819e-4f0c-87ea-dc064dd1fc7b.mp4
-####Project Concept
+
+## Project Concept
 
 The product (PicAnimal), a mobile app that we designed and created, is presently available on Android and will support IOS in the future. Our target audience consists of 20 to 30 year old students that value ecological conservation and nature, as well as 30 to 40 year old ecologists, zoologists, and taxonomists who work for organizations that protect wildlife.
 
@@ -12,7 +13,7 @@ PicAnimal also has a map functionality that users can share the journal log with
 
 In addition to the above main features, PicAnimal also has a detailed user statistics record. This includes uploaded photos, posted journals, liked posts or forums, browsing history, etc. 
 
-#### Installation
+## Installation
 
 - ### To compile the source code
 
@@ -61,7 +62,7 @@ In addition to the above main features, PicAnimal also has a detailed user stati
     - Install the APK file on Android emulator.
     - Run the Application.
     
-# Open source library used
+## Open source library used
 
 1\. 🎈 React Native Camera Kit. (2022). \[Objective-C\]. Tesla, Inc. https://github.com/teslamotors/react-native-camera-kit (Original work published 2016)
 
